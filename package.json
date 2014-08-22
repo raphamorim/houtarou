@@ -1,0 +1,21 @@
+{
+  "name": "libmin",
+  "version": "0.1.0",
+  "description": "Remove unused functions in libraries, using Command Line Interface",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raphamorim/libmin.git"
+  },
+  "author": "Raphael Amorim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphamorim/libmin/issues"
+  },
+  "homepage": "https://github.com/raphamorim/libmin"
+}
