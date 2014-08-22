@@ -1,5 +1,5 @@
 {
-  "name": "libmin",
+  "name": "Houtarou",
   "version": "0.1.0",
   "description": "Remove unused functions in libraries, using Command Line Interface",
   "directories": {
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/raphamorim/libmin.git"
+    "url": "https://github.com/raphamorim/houtarou.git"
   },
   "author": "Raphael Amorim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raphamorim/libmin/issues"
+    "url": "https://github.com/raphamorim/houtarou/issues"
   },
-  "homepage": "https://github.com/raphamorim/libmin"
+  "homepage": "https://github.com/raphamorim/houtarou"
 }

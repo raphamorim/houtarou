@@ -1,6 +1,5 @@
-# Libmin
+# Houtarou
 
 Remove unused functions in libraries, using cli.
 
-Available for the following libraries: 
- -JQuery
+Available for the following libraries: JQuery

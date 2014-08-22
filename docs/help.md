@@ -1,8 +1,8 @@
 
-Usage: libmin <source> <path>
+Usage: houtarou <source> <path>
 
-Description: Remove unused functions in libraries, using CLI.  
-More info: https://github.com/raphamorim/libmin
+Description: Remove unused functions in libraries, using CLI.
+More info: https://github.com/raphamorim/houtarou
 
 Options:
  -v, --version         output version number
